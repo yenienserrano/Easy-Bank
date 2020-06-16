@@ -1,0 +1,136 @@
+body{
+    Font-size: 18px;
+    font-family: 'Public Sans', sans-serif;
+}
+
+
+.bgbtn{
+    background: linear-gradient(90deg,hsl(136, 65%, 51%)30%, hsl(192, 70%, 51%)70%);
+    color:white;
+    font-size: 15px;
+    padding:10px 25px 10px 25px;
+    margin:5px 0 ;
+    border-radius: 30px;
+    font-weight: 400;
+}
+
+.bgbtn:hover{
+    background: linear-gradient(90deg,rgb(120, 230, 149)30%, hsl(192, 77%, 68%)70%);
+    color:white;
+}
+
+.navcenter{
+    color:hsl(233, 8%, 62%);
+    margin: 0 20px ;
+    font-size: 16px;
+}
+
+.navcenter:hover{
+    color:hsl(240, 9%, 13%);
+    margin: 0 20px ;
+    font-size: 16px;
+    padding-bottom: 20%;
+    border-bottom: 5px solid transparent;
+    border-image: linear-gradient(90deg,hsl(136, 65%, 51%)30%, hsl(192, 70%, 51%)70%);
+    border-image-slice: 0.5;
+    text-decoration: none;
+}
+.width100{
+    width:150%;    
+}
+
+.bg1{
+    background: hsl(0, 0%, 98%);
+}
+
+.bg2{
+    background: hsl(220, 16%, 96%);
+}
+
+.bg3{
+    background:  hsl(233, 26%, 24%);
+}
+
+.margenes{
+    padding:130px 0;
+}
+
+.margenes2{
+    padding:90px 0;
+}
+
+.himportante{
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.pimportantes{
+    color:hsl(233, 8%, 62%);
+    font-weight: 400;
+    font-size: 17px;
+}
+
+
+.patch{
+    fill: white;
+}
+
+.pmedio{
+    color:hsl(233, 8%, 62%);
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.ppenultima{
+    color:hsl(233, 8%, 62%);
+    font-weight: 300;
+    font-size: 14px;
+}
+
+h6{
+    color:hsl(233, 8%, 62%);
+    font-weight: 300;
+    font-size: 10px;
+}
+
+.pultima{
+    color:hsl(233, 8%, 62%);
+    font-weight: 300;
+    font-size: 12px;
+}
+
+
+.hchica{
+    font-size:14px ;
+}
+
+.hchica:hover{
+    color:hsl(192, 70%, 51%);
+}
+
+.imagen{
+    height: 220px;
+}
+
+a.afondo{
+    color:white;
+    font-size: 16px;
+}
+
+.afondo:hover{
+    text-decoration: none;
+    color:hsl(192, 70%, 51%);
+}
+
+.reserve{
+    color:hsl(233, 8%, 62%);
+    font-size: 16px;
+}
+
+.altura{
+    height: 100px;
+}
+
+.redes:hover{
+    fill:hsl(192, 70%, 51%);
+}
